@@ -1,0 +1,4 @@
+conda install tensorflow-gpu
+#Or conda install tensorflow, for non-GPU installation
+
+conda install -c anaconda pillow 
